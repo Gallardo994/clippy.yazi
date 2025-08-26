@@ -12,7 +12,7 @@ Special thanks to https://github.com/orhnk/system-clipboard.yazi for the referen
 
 Add the package via: 
 
-`ya pkg add Gallardo994/clippy.yazi`
+`ya pkg add Gallardo994/clippy`
 
 Add `plugin clippy` to the `keymap.toml`, for example:
 
